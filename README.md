@@ -62,7 +62,7 @@ nc 172.17.52.118 80
 
 nmap -p 21 -sV --script=banner ftp.vim.org
 ## OUTPUT :
-![Screenshot 2025-03-07 224753](https://github.com/user-attachments/assets/4e92fb33-5be1-4150-b824-251d872d0706)
+![Screenshot_2025-03-08_03_09_18(1)](https://github.com/user-attachments/assets/6f224bf2-8c26-4625-80bb-b89e2f8520ba)
 
 
 ## Whatweb:
@@ -77,17 +77,21 @@ httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
 
 ## Tracing the Location:
 ## TCP Traceroute:
-sudo traceroute -T www.instagram.com
+
 ## OUTPUT :
-![lab2(10)](https://github.com/user-attachments/assets/f9d38703-0eae-42b6-b0b0-02a6b909fa6a)
+
+![Screenshot_2025-03-08_03_49_51](https://github.com/user-attachments/assets/9fa0e8aa-028e-4a87-9500-27ab11ea57d7)
 
 ## UDP Traceroute:
-sudo traceroute -U www.instagram.com
+
 ## OUTPUT :
-![lab2(11)](https://github.com/user-attachments/assets/8a4b99b0-e2ea-41a0-944e-3508707777ca)
+![Screenshot_2025-03-08_03_51_52](https://github.com/user-attachments/assets/3314af83-33c5-484a-b0cc-9027bed6469b)
+
 ## ICMP Traceroute:
-sudo traceroute  www.facebook.com
+
 ## OUTPUT :
-![lab2(12)](https://github.com/user-attachments/assets/85f3b2bb-ef9f-441e-8af3-85392624d266)
+![Screenshot_2025-03-08_03_51_56](https://github.com/user-attachments/assets/762512fb-14ef-4d05-98e2-fba45d171252)
+
+
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
