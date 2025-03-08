@@ -28,7 +28,9 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
 
 ## OUTPUT:
-![Screenshot 2025-03-07 223424](https://github.com/user-attachments/assets/b276a405-65af-42b2-bd24-c49819a068f7)
+![Screenshot 2025-03-08 134806](https://github.com/user-attachments/assets/00d97c65-f623-4b7d-87e4-bb1bf5273e8c)
+
+
 
 ## Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of youtube .com
@@ -40,12 +42,14 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ## Finding Hosting Company:
 get further detail by using ip2location.com website.
 ## OUTPUT :
-![Screenshot 2025-03-07 223524](https://github.com/user-attachments/assets/e99ac3bd-5675-4b9e-bd39-2ff39b83a420)
+![Screenshot 2025-03-08 135944](https://github.com/user-attachments/assets/661329bf-3ff8-45d6-8f86-ca1a46253e51)
+
 
 ## History of the website:
 ## OUTPUT :
-![lab2(4)](https://github.com/user-attachments/assets/e4e12ae6-3543-4c00-920a-bc7f0174ae9c)
-![lab2(5)](https://github.com/user-attachments/assets/c4d933a9-87b6-444f-b8ff-a4d08a2a5841)
+![Screenshot 2025-03-08 140650](https://github.com/user-attachments/assets/f9ac36d5-3ad2-4a81-898b-50590948ee6a)
+![Screenshot 2025-03-08 140703](https://github.com/user-attachments/assets/12535b07-8ee1-432a-a2bd-4f75a3fcdda5)
+
 
 ## Webserver Fingerprinting:
 ## Netcat:
