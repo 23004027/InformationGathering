@@ -42,13 +42,15 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ## Finding Hosting Company:
 get further detail by using ip2location.com website.
 ## OUTPUT :
-![Screenshot 2025-03-08 135944](https://github.com/user-attachments/assets/661329bf-3ff8-45d6-8f86-ca1a46253e51)
+![Screenshot 2025-03-15 080828](https://github.com/user-attachments/assets/54db0f47-e8ae-4dfc-93ea-bef27fa5702f)
+
 
 
 ## History of the website:
 ## OUTPUT :
-![Screenshot 2025-03-08 140650](https://github.com/user-attachments/assets/f9ac36d5-3ad2-4a81-898b-50590948ee6a)
-![Screenshot 2025-03-08 140703](https://github.com/user-attachments/assets/12535b07-8ee1-432a-a2bd-4f75a3fcdda5)
+![Screenshot 2025-03-15 081035](https://github.com/user-attachments/assets/3e855e86-ada2-47dd-af9c-bfa7ccc85f1c)
+![Screenshot 2025-03-15 081047](https://github.com/user-attachments/assets/0c891cfb-7617-4a62-8cf1-cb2d21d0ebdb)
+![Screenshot 2025-03-15 081101](https://github.com/user-attachments/assets/c13144ae-8380-48f0-8fc6-9057fdf1b8cd)
 
 
 ## Webserver Fingerprinting:
